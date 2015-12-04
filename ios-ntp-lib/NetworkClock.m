@@ -8,6 +8,7 @@
 
 #import "NetworkClock.h"
 #import "ntp-log.h"
+#import "GCDAsyncUdpSocket.h"
 
 @interface NetworkClock () {
 
